@@ -1,0 +1,22 @@
+#HOME1{
+       color:white;
+       background-color:skyblue;
+       font-size:25pt;
+       padding-left:150px;
+       padding-top:1px;
+       padding-bottom:1px;
+       }
+#HOME2{
+        color:yellow;
+        background-color:yellow;
+}
+a{
+  text-decoration:none;
+}
+*{margin:0px;}
+body{
+     background-color:aqua;
+      }
+#HOME3{
+      padding-left:40px;
+      }

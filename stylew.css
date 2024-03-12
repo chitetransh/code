@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+}
+
+aside {
+    width: 40%;
+    height: 100vh;
+    border: thin solid black;
+}
+
+#icon1,
+#og1 {
+    font-size: 40pt;
+}
+
+#icon2 {
+    font-size: 20pt;
+}
+
+#icon3 {
+    font-size: 20px;
+}
+
+#icon4 {
+    font-size: 20px;
+}
+
+#div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#head1 {
+    display: flex;
+    justify-content: space-between;
+    height: 54px;
+    border-bottom: black thin solid;
+    padding: 10px 16px;
+    background-color: rgb(92, 213, 92);
+}
+
+#icon5 {
+    font-size: 20px;
+}
+
+#icon6 {
+    font-size: 20px;
+}
+
+.mx-10 {
+    margin: 0px 10px;
+}
+
+input {
+    width: 600px;
+    height: 50px;
+
+}
+
+input[placeholder] {
+    display: flex;
+    align-items: center;
+    padding-left: 70px;
+    justify-content: center;
+}
+
+.chats {
+    display: flex;
+    border-bottom: black thin solid;
+    padding: 10px 16px;
+}
+
+#icon7 {
+    transform: translatex(30px) translateY(15px);
+
+}
+
+.option {
+    height: 54px;
+    border-bottom: thin black solid;
+    padding: 10px 16px;
+}
+
+p {
+    transform: translateX(70px) translateY(-40px);
+}
+
+#color {
+    color: rgb(9, 96, 44);
+    font-weight: bold;
+}
+
+#first {
+    background-color: gray;
+
+}
+
+.time {
+    transform: translateX(450px) translateY(-90px);
+}
+
+#what {
+    transform: translateX(60px) translateY(-40px);
+}
+
+body {
+    display: flex;
+
+}
+
+section {
+    border: thin black solid;
+    height: 100vh;
+    width: 60%;
+    background-color: rgba(253, 218, 222, 0.914);
+}
+
+h2 {
+    transform: translateX(70px) translateY(-40px);
+}
+
+#head2 {
+    background-color: green;
+    height: 54px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+#vid1,
+#vid2,
+#vid3 {
+    padding: 10px 16px;
+}

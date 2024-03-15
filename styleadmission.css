@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#a{
+    width: 100%;
+    height:  100vh;
+    background-color: rgba(221, 211, 211, 0.47);
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(70, 219, 219);
+}
+a{
+    text-decoration: none;
+   
+}
+a:hover{
+    background-color:black;
+    border-radius: 20px;
+    transition: 1s;
+    padding: 6px 7px;
+    color: aliceblue;
+}
+body{
+    background-image:url("img4.jpg");
+    background-attachment: fixed;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
